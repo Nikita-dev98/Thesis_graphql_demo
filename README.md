@@ -1,5 +1,5 @@
 # Creating the docker
-docker run -d -p 5002:5001 --name graphql_api-container --memory=512m --cpus=1 graphql_api
+docker run -d -p 5002:5001 --name graphql_api-container --memory=256m --cpus=1 graphql_api
 
 512 mb ram and 1 cpu core
 
@@ -18,6 +18,10 @@ circular fragments - depth limiting
 batching attacks- rate limitng
 circular query attacks- complexity analysis
 circular fragments - depth limiting
+
+# batching attack - rate limiting
+initial pic of set up and query - rate_limiting1
+set up runner collection and use only 50 requests(not bypassing the rate limit, but calculating server performance) - rl_2
 
 # Depth limiting - Circular fragments
 # simple query

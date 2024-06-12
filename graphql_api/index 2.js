@@ -1,9 +1,6 @@
-const express = require('express');
-//const { ApolloServer } = require('apollo-server-express');
-const { ApolloServer, gql } = require('apollo-server-express');
+const { ApolloServer, gql } = require('apollo-server');
 const depthLimit = require('graphql-depth-limit');
 const { createComplexityLimitRule } = require('graphql-validation-complexity');
-const rateLimit = require('express-rate-limit');
 // Import sample data
 const { users, posts, comments } = require('./data'); 
 
@@ -57,18 +54,9 @@ const resolvers = {
   }
 };
 
-// Create the rate limiter middleware
-const limiter = rateLimit({
-  windowMs: 1 * 60 * 1000, // 1 minute
-  max: 100, // limit each IP to 100 requests per windowMs
-  message: "Too many requests from this IP, please try again later."
-});
+// Sample data
 
-// Create an Express application
-const app = express();
-
-// Apply rate limiting middleware to all requests
-app.use(limiter);
+  
 
 // Create the Apollo Server
 const server = new ApolloServer({
@@ -79,16 +67,6 @@ const server = new ApolloServer({
 });
 
 // Start the server
-//server.listen({ port: 5001 }).then(({ url }) => {
-//  console.log(`Server ready at ${url}`);
-//});
-
-// Apply the Apollo GraphQL middleware to the Express application
-server.start().then(() => {
-  server.applyMiddleware({ app });
-
-  // Start the server
-  app.listen({ port: 5001 }, () => {
-    console.log(`Server ready at http://localhost:5001${server.graphqlPath}`);
-  });
+server.listen({ port: 5001 }).then(({ url }) => {
+  console.log(`Server ready at ${url}`);
 });
