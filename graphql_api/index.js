@@ -5,57 +5,74 @@ const depthLimit = require('graphql-depth-limit');
 const { createComplexityLimitRule } = require('graphql-validation-complexity');
 const rateLimit = require('express-rate-limit');
 // Import sample data
-const { users, posts, comments } = require('./data'); 
+//const { users, posts, comments } = require('./dataset_2'); 
+const { users, repositories } = require('./dataset_2'); 
 
 
 // Define your schema
 const typeDefs = gql`
   type Query {
-    hello: String
-    user(id: ID!): User
-    users: [User]
-    posts: [Post]
-    comment(id: ID!): Comment
-    comments: [Comment]
+    repository(owner: String!, name: String!): Repository
+    user(login: String!): User
+  }
+
+  type Repository {
+    id: ID!
+    name: String!
+    owner: User!
+    description: String
+    
   }
 
   type User {
     id: ID!
+    login: String!
     name: String
-    email: String
-    posts: [Post]
+    repositories: RepositoryConnection!
+    
   }
 
-  type Post {
-    id: ID!
-    title: String
-    body: String
-    comments: [Comment]
+  type ForkConnection {
+    totalCount: Int!
+    nodes: [Repository!]!
   }
 
-  type Comment {
-    id: ID!
-    content: String
+  type RepositoryConnection {
+    totalCount: Int!
+    nodes: [Repository!]!
   }
 `;
 
 // Define your resolvers
-const resolvers = {
+/*const resolvers = {
   Query: {
-    hello: () => 'Hello world!',
-    user: (parent, args, context, info) => context.users.find(user => user.id === args.id),
-    users: (parent, args, context, info) => context.users,
-    posts: (parent, args, context, info) => context.posts,
-    comment: (parent, args, context, info) => context.comments.find(comment => comment.id === args.id),
-    comments: (parent, args, context, info) => context.comments,
+    repository: (parent, args, { repositories }) => repositories[0],  // Returns the first repository
+    user: (parent, args, { users }) => users[0],  // Returns the first user
+  },
+  Repository: {
+    owner: (parent, args, { users }) => users[0],  // Returns the first user as the owner
   },
   User: {
-    posts: (parent, args, context, info) => context.posts.filter(post => post.userId === parent.id)
+    repositories: (parent, args, { repositories }) => ({
+      totalCount: repositories.length,
+      nodes: repositories,
+    }),
   },
-  Post: {
-    comments: (parent, args, context, info) => context.comments.filter(comment => comment.postId === parent.id)
-  }
+};*/
+
+const resolvers = {
+  Query: {
+    repository: (parent, args, { repositories }) => repositories.find(repo => repo.name === args.name && repo.owner.login === args.owner),
+    user: (parent, args, { users }) => users.find(user => user.login === args.login),
+  },
+  Repository: {
+    owner: (parent, args, { users }) => users.find(user => user.id === parent.owner.id),
+  },
+  User: {
+    repositories: (parent) => parent.repositories,
+  },
 };
+
 
 // Create the rate limiter middleware
 const limiter = rateLimit({
@@ -74,7 +91,7 @@ app.use(limiter);
 const server = new ApolloServer({
   typeDefs,
   resolvers,
-  context: () => ({ users, posts, comments }),
+  context: () => ({ users, repositories }),
   validationRules: [depthLimit(5), createComplexityLimitRule(1000)],
 });
 
@@ -88,7 +105,8 @@ server.start().then(() => {
   server.applyMiddleware({ app });
 
   // Start the server
-  app.listen({ port: 5001 }, () => {
+  app.listen({ port: 5001, host: '0.0.0.0' }, () => {
+  //app.listen({ port: 5001 }, () => {
     console.log(`Server ready at http://localhost:5001${server.graphqlPath}`);
   });
 });
