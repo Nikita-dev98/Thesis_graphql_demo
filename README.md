@@ -1,5 +1,6 @@
 # Creating the docker
-docker run -d -p 5002:5001 --name graphql_api-container --memory=256m --cpus=1 graphql_api
+# docker run -d -p 5002:5001 --name graphql_api-container --memory=20m --cpus=1 graphql_api
+docker run -p 5002:5001 --name graphql_api-container --memory 20m graphql_api
 
 512 mb ram and 1 cpu core
 
