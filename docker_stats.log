@@ -1,0 +1,1496 @@
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.32MiB / 20MiB    81.60%    108kB / 524kB   2.22GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.32MiB / 20MiB    81.62%    108kB / 524kB   2.22GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.32MiB / 20MiB    81.62%    108kB / 524kB   2.22GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.32MiB / 20MiB    81.62%    108kB / 524kB   2.22GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.32MiB / 20MiB    81.62%    108kB / 524kB   2.22GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.32MiB / 20MiB    81.62%    108kB / 524kB   2.22GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.32MiB / 20MiB    81.62%    108kB / 524kB   2.22GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   32.97%    16.95MiB / 20MiB    84.77%    372kB / 605kB   2.45GB / 283MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   55.16%    19.32MiB / 20MiB    96.60%    510kB / 819kB   4.48GB / 436MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   52.69%    19.18MiB / 20MiB    95.90%    522kB / 868kB   9.44GB / 451MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   54.12%    19.61MiB / 20MiB    98.03%    528kB / 893kB   13.3GB / 460MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   53.65%    19.47MiB / 20MiB    97.36%    532kB / 906kB   16.9GB / 464MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   108.37%   19.49MiB / 20MiB    97.44%    534kB / 912kB   22.6GB / 466MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   52.89%    19.66MiB / 20MiB    98.30%    536kB / 924kB   27.7GB / 469MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   67.22%    19.3MiB / 20MiB     96.52%    539kB / 936kB   32.4GB / 471MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   52.47%    19.13MiB / 20MiB    95.64%    558kB / 1.01MB   35.4GB / 500MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   51.66%    18.61MiB / 20MiB    93.07%    632kB / 1.03MB   38.7GB / 529MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   80.67%    18.75MiB / 20MiB    93.77%    677kB / 1.05MB   43.3GB / 533MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O      PIDS
+25cd026cf22f   graphql_api-container   50.83%    18.46MiB / 20MiB    92.30%    916kB / 1.16MB   46GB / 542MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   55.10%    19.04MiB / 20MiB    95.18%    993kB / 1.19MB   49.3GB / 545MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   50.98%    18.86MiB / 20MiB    94.30%    1.15MB / 1.26MB   53.2GB / 552MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   51.87%    18.64MiB / 20MiB    93.22%    1.26MB / 1.31MB   56.2GB / 553MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   60.95%    19.34MiB / 20MiB    96.72%    1.31MB / 1.33MB   59.5GB / 556MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   107.46%   20MiB / 20MiB       100.00%   1.32MB / 1.33MB   65.4GB / 556MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O     BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   13.19%    17.98MiB / 20MiB    89.90%    732B / 0B   924MB / 96.2MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     17.98MiB / 20MiB    89.90%    1.04kB / 0B   924MB / 96.2MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     18.33MiB / 20MiB    91.64%    1.11kB / 0B   925MB / 96.2MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+25cd026cf22f   graphql_api-container   52.12%    19.16MiB / 20MiB    95.78%    187kB / 36.4kB   2.48GB / 97.1MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+25cd026cf22f   graphql_api-container   51.88%    19.41MiB / 20MiB    97.07%    187kB / 36.4kB   6.38GB / 97.6MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+25cd026cf22f   graphql_api-container   52.87%    20MiB / 20MiB       100.00%   187kB / 36.4kB   10.3GB / 98.1MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+25cd026cf22f   graphql_api-container   54.37%    19.89MiB / 20MiB    99.45%    187kB / 36.4kB   14.8GB / 98.1MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+25cd026cf22f   graphql_api-container   53.53%    19.95MiB / 20MiB    99.73%    187kB / 36.4kB   18.9GB / 98.4MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+25cd026cf22f   graphql_api-container   55.36%    19.93MiB / 20MiB    99.65%    187kB / 36.4kB   23.3GB / 98.4MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+25cd026cf22f   graphql_api-container   47.93%    19.88MiB / 20MiB    99.41%    187kB / 36.4kB   28.4GB / 98.5MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     18.55MiB / 20MiB    92.77%    1.24kB / 0B   692MB / 98.2MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     18.55MiB / 20MiB    92.77%    1.24kB / 0B   692MB / 98.2MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     18.55MiB / 20MiB    92.77%    1.24kB / 0B   692MB / 98.2MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     18.55MiB / 20MiB    92.77%    1.31kB / 0B   692MB / 98.2MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     18.55MiB / 20MiB    92.77%    1.31kB / 0B   692MB / 98.2MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     18.55MiB / 20MiB    92.77%    1.31kB / 0B   692MB / 98.2MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     18.55MiB / 20MiB    92.77%    1.31kB / 0B   692MB / 98.2MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   73.95%    18.54MiB / 20MiB    92.70%    10.1kB / 26.4kB   2.56GB / 124MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   2.47%     15.9MiB / 20MiB     79.49%    15.6kB / 128kB   2.93GB / 174MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     12.94MiB / 20MiB    64.71%    21.6kB / 180kB   2.94GB / 175MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   5.50%     17.01MiB / 20MiB    85.06%    24.2kB / 205kB   2.96GB / 180MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   4.96%     10.17MiB / 20MiB    50.84%    31.1kB / 257kB   2.98GB / 185MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.03%     11.96MiB / 20MiB    59.82%    33.7kB / 282kB   2.99GB / 188MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.46%     14.03MiB / 20MiB    70.16%    33.8kB / 283kB   2.99GB / 189MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.1MiB / 20MiB     70.49%    33.9kB / 283kB   2.99GB / 189MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.1MiB / 20MiB     70.49%    33.9kB / 283kB   2.99GB / 189MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+25cd026cf22f   graphql_api-container   3.38%     16.51MiB / 20MiB    82.56%    37.4kB / 309kB   3GB / 189MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14MiB / 20MiB       69.98%    40kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.21%     15.32MiB / 20MiB    76.58%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.03%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.31MiB / 20MiB    76.56%    40.2kB / 334kB   3.01GB / 190MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   6.64%     19.02MiB / 20MiB    95.12%    42.6kB / 347kB   3.06GB / 202MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.44%     15.98MiB / 20MiB    79.90%    44.7kB / 360kB   3.07GB / 206MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   2.04%     13.38MiB / 20MiB    66.91%    46.1kB / 370kB   3.08GB / 208MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.18MiB / 20MiB    70.90%    49.9kB / 391kB   3.09GB / 209MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.17%     16.74MiB / 20MiB    83.71%    52kB / 406kB   3.09GB / 210MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   2.09%     16.64MiB / 20MiB    83.18%    55.8kB / 427kB   3.09GB / 210MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.78%     16.78MiB / 20MiB    83.89%    57.1kB / 436kB   3.09GB / 210MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.58%     13.79MiB / 20MiB    68.93%    61.5kB / 457kB   3.09GB / 210MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.22%     13.71MiB / 20MiB    68.57%    62.9kB / 472kB   3.09GB / 210MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   2.23%     14.34MiB / 20MiB    71.68%    66.1kB / 489kB   3.09GB / 210MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.11MiB / 20MiB    70.53%    68.2kB / 502kB   3.09GB / 210MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   2.30%     15.18MiB / 20MiB    75.92%    72kB / 524kB   3.09GB / 210MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.10%     15.47MiB / 20MiB    77.34%    74kB / 538kB   3.09GB / 210MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.94%     16.68MiB / 20MiB    83.38%    75.5kB / 548kB   3.09GB / 211MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   0.00%     18.54MiB / 20MiB    92.68%    79.3kB / 569kB   3.1GB / 211MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   1.62%     16.84MiB / 20MiB    84.18%    81.3kB / 583kB   3.1GB / 211MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   2.05%     19.15MiB / 20MiB    95.76%    85.1kB / 604kB   3.1GB / 212MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.14MiB / 20MiB    80.72%    86.4kB / 614kB   3.1GB / 212MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   4.40%     15.96MiB / 20MiB    79.82%    91kB / 640kB   3.1GB / 214MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   1.89%     15.27MiB / 20MiB    76.33%    92.3kB / 649kB   3.1GB / 215MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   2.49%     14.85MiB / 20MiB    74.26%    95.4kB / 666kB   3.1GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.04MiB / 20MiB    75.20%    97.5kB / 680kB   3.1GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     17.08MiB / 20MiB    85.39%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.65%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.65%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.65%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.65%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.65%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.65%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.65%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.65%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.65%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.65%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    98.9kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.09%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.04%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99.1kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99.1kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99.1kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99.1kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99.1kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99.1kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99.1kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.93MiB / 20MiB    84.67%    99.1kB / 690kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.88%     17.04MiB / 20MiB    85.21%    101kB / 702kB   3.11GB / 216MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.66%     17.48MiB / 20MiB    87.42%    104kB / 715kB   3.11GB / 217MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.05%     17.05MiB / 20MiB    85.27%    105kB / 725kB   3.11GB / 217MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.89%     18.32MiB / 20MiB    91.62%    109kB / 751kB   3.11GB / 217MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.97%     18.36MiB / 20MiB    91.78%    111kB / 761kB   3.11GB / 217MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   3.95%     15.22MiB / 20MiB    76.09%    115kB / 782kB   3.11GB / 218MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     15.54MiB / 20MiB    77.71%    116kB / 791kB   3.12GB / 220MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   4.50%     17.95MiB / 20MiB    89.73%    120kB / 817kB   3.17GB / 234MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.73%     18.81MiB / 20MiB    94.06%    122kB / 827kB   3.17GB / 234MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   2.09%     16.75MiB / 20MiB    83.73%    125kB / 844kB   3.17GB / 234MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     17.21MiB / 20MiB    86.07%    127kB / 858kB   3.17GB / 234MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   3.43%     15.15MiB / 20MiB    75.74%    131kB / 879kB   3.18GB / 234MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.79%     17.41MiB / 20MiB    87.07%    133kB / 893kB   3.18GB / 234MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.01%     17.66MiB / 20MiB    88.30%    134kB / 903kB   3.18GB / 234MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.03%     14.8MiB / 20MiB     74.02%    139kB / 929kB   3.18GB / 235MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.94%     14.86MiB / 20MiB    74.32%    140kB / 938kB   3.18GB / 235MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   3.63%     15.51MiB / 20MiB    77.54%    144kB / 959kB   3.19GB / 241MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.85MiB / 20MiB    84.24%    145kB / 969kB   3.22GB / 250MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   3.80%     12.77MiB / 20MiB    63.85%    150kB / 990kB   3.27GB / 259MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.95%     16.96MiB / 20MiB    84.80%    151kB / 1MB   3.31GB / 268MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   5.86%     15.93MiB / 20MiB    79.67%    154kB / 1.02MB   3.33GB / 274MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     11.29MiB / 20MiB    56.46%    156kB / 1.04MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.79MiB / 20MiB    73.96%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.79MiB / 20MiB    73.96%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.83MiB / 20MiB    74.14%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.83MiB / 20MiB    74.14%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.83MiB / 20MiB    74.14%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.83MiB / 20MiB    74.14%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.83MiB / 20MiB    74.14%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.83MiB / 20MiB    74.14%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.07%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.75%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.03%     14.95MiB / 20MiB    74.77%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.77%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.77%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.77%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.95MiB / 20MiB    74.77%    158kB / 1.05MB   3.34GB / 276MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.08%     12.04MiB / 20MiB    60.18%    159kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     12.04MiB / 20MiB    60.18%    159kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.02%     12.04MiB / 20MiB    60.18%    159kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     13.64MiB / 20MiB    68.18%    159kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.02%     13.64MiB / 20MiB    68.18%    159kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.38MiB / 20MiB    71.89%    160kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.38MiB / 20MiB    71.89%    160kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.59MiB / 20MiB    72.93%    161kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.59MiB / 20MiB    72.93%    161kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.45%     14.71MiB / 20MiB    73.54%    162kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.7MiB / 20MiB     73.52%    162kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.54%     14.82MiB / 20MiB    74.12%    162kB / 1.05MB   3.35GB / 277MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     13.79MiB / 20MiB    68.93%    180kB / 1.08MB   3.36GB / 279MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     13.79MiB / 20MiB    68.93%    180kB / 1.08MB   3.36GB / 279MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     13.79MiB / 20MiB    68.93%    180kB / 1.08MB   3.36GB / 279MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     13.79MiB / 20MiB    68.93%    180kB / 1.08MB   3.36GB / 279MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     13.79MiB / 20MiB    68.93%    180kB / 1.08MB   3.36GB / 279MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.19%     18.04MiB / 20MiB    90.20%    184kB / 1.09MB   3.36GB / 280MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   2.85%     17.28MiB / 20MiB    86.41%    185kB / 1.1MB   3.39GB / 286MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   3.54%     15.75MiB / 20MiB    78.73%    188kB / 1.11MB   3.41GB / 289MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.21MiB / 20MiB    71.04%    190kB / 1.12MB   3.42GB / 289MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   4.47%     16.95MiB / 20MiB    84.73%    194kB / 1.14MB   3.5GB / 296MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   1.31%     14.1MiB / 20MiB     70.49%    196kB / 1.15MB   3.5GB / 296MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   3.22%     16.84MiB / 20MiB    84.20%    197kB / 1.16MB   3.53GB / 298MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     17.11MiB / 20MiB    85.55%    201kB / 1.17MB   3.54GB / 298MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.11%     15.56MiB / 20MiB    77.81%    203kB / 1.19MB   3.54GB / 298MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   2.75%     16.32MiB / 20MiB    81.58%    207kB / 1.2MB   3.57GB / 302MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.77%     17.3MiB / 20MiB     86.52%    208kB / 1.21MB   3.59GB / 304MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.58%     16.01MiB / 20MiB    80.04%    212kB / 1.23MB   3.62GB / 306MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   4.01%     14.21MiB / 20MiB    71.07%    214kB / 1.24MB   3.63GB / 308MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   2.95%     16.03MiB / 20MiB    80.14%    217kB / 1.25MB   3.66GB / 310MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.07MiB / 20MiB    80.35%    219kB / 1.26MB   3.7GB / 329MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   6.05%     17.71MiB / 20MiB    88.57%    222kB / 1.28MB   3.79GB / 335MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.94%     16.88MiB / 20MiB    84.38%    224kB / 1.29MB   3.82GB / 339MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   3.02%     17.34MiB / 20MiB    86.72%    226kB / 1.3MB   3.85GB / 341MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     13.57MiB / 20MiB    67.87%    229kB / 1.31MB   3.86GB / 342MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   1.43%     14.77MiB / 20MiB    73.87%    231kB / 1.32MB   3.86GB / 342MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+25cd026cf22f   graphql_api-container   2.29%     17.58MiB / 20MiB    87.91%    235kB / 1.34MB   3.9GB / 344MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     14.82MiB / 20MiB    74.12%    236kB / 1.35MB   3.93GB / 346MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.59MiB / 20MiB    82.93%    237kB / 1.35MB   3.93GB / 346MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.59MiB / 20MiB    82.93%    237kB / 1.35MB   3.93GB / 346MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.66MiB / 20MiB    83.30%    237kB / 1.35MB   3.93GB / 346MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.66MiB / 20MiB    83.30%    237kB / 1.35MB   3.93GB / 346MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.77MiB / 20MiB    83.83%    237kB / 1.35MB   3.93GB / 346MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+25cd026cf22f   graphql_api-container   0.00%     16.77MiB / 20MiB    83.83%    237kB / 1.35MB   3.93GB / 346MB   7
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+25cd026cf22f   graphql_api-container   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
