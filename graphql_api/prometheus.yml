@@ -1,0 +1,10 @@
+global:
+  scrape_interval: 5s  # Interval for scraping metrics
+
+scrape_configs:
+# Monitor the Node.js application
+  - job_name: 'nodejs_app'
+    static_configs:
+      - targets: ['localhost:5001']  # Ensure this is the correct port
+    metrics_path: '/metrics'          # Path to scrape the metrics from
+    honor_labels: true                # Preserve original metric labels

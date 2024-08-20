@@ -114,24 +114,24 @@ const resolvers = {
 
 
 //Create the rate limiter middleware
-const limiter = rateLimit({
-  windowMs: 1 * 60 * 1000, // 1 minute
-  max: 100, // limit each IP to 100 requests per windowMs
-  message: "Too many requests from this IP, please try again later."
-});
+// const limiter = rateLimit({
+//  windowMs: 1 * 60 * 1000, // 1 minute
+//  max: 500, // limit each IP to 100 requests per windowMs
+//  message: "Too many requests from this IP, please try again later."
+//});
 
 // Create an Express application
 const app = express();
 
 // Apply rate limiting middleware to all requests
-app.use(limiter);
+// app.use(limiter);
 
 // Create the Apollo Server
 const server = new ApolloServer({
   typeDefs,
   resolvers,
   context: () => ({ users, repositories }),
-  validationRules: [depthLimit(5), createComplexityLimitRule(1000)],
+  validationRules: [depthLimit(20), createComplexityLimitRule(1000)],
 });
 
 

@@ -1,0 +1,17 @@
+{
+	"ulid": "01J5MGMFSCF4012Q08WF65RNT4",
+	"minTime": 1724033032920,
+	"maxTime": 1724040000000,
+	"stats": {
+		"numSamples": 470,
+		"numSeries": 10,
+		"numChunks": 10
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01J5MGMFSCF4012Q08WF65RNT4"
+		]
+	},
+	"version": 1
+}
