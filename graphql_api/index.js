@@ -1,7 +1,6 @@
-const express = require('express');
-//const { ApolloServer } = require('apollo-server-express');
-const { ApolloServer, gql } = require('apollo-server-express');
-const depthLimit = require('graphql-depth-limit');
+const express = require('express');  //imports the Express framework, used for building web applications in Node.js
+const { ApolloServer, gql } = require('apollo-server-express');  //integrates Apollo Server with Express
+const depthLimit = require('graphql-depth-limit');  
 const { createComplexityLimitRule } = require('graphql-validation-complexity');
 const rateLimit = require('express-rate-limit');
 // Import sample data 
@@ -9,7 +8,8 @@ const { users, repositories } = require('./dataset_2');
 
 
 // Define your schema
-const typeDefs = gql`
+//This uses the gql function to define the GraphQL schema
+const typeDefs = gql`            
   type Query {
     repository(owner: String!, name: String!): Repository
     user(login: String!): User
@@ -66,6 +66,7 @@ const typeDefs = gql`
 `;
 
 // Define your resolvers
+// Resolvers specify how to fetch the data for each query or field.
 
 const resolvers = {
   Query: {
