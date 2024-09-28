@@ -1,18 +1,16 @@
 const express = require('express');
 const { ApolloServer, gql } = require('apollo-server-express');
-const promClient = require('prom-client');
-const os = require('os');
-const { exec } = require('child_process');
-const { collectDockerStats } = require('./docker_stats');
+const bodyParser = require('body-parser')
 
 // Import sample data 
 const { users, repositories } = require('./dataset_2'); 
+
 
 // Define your schema
 const typeDefs = gql`
   type Query {
     repository(owner: String!, name: String!): Repository
-    user(login: String!, name: String!): User
+    user(login: String!): User
     users(first: Int, after: String): UserConnection
   }
 
@@ -21,6 +19,9 @@ const typeDefs = gql`
     name: String!
     owner: User!
     description: String
+    comments(first: Int, after: String): CommentConnection!  
+
+    
   }
 
   type User {
@@ -28,6 +29,25 @@ const typeDefs = gql`
     login: String!
     name: String
     repositories(first: Int, after: String): RepositoryConnection!
+    comments(first: Int, after: String): CommentConnection! 
+
+  }
+
+  type Comment {
+    id: ID!
+    content: String!
+    user: User!
+    repository: Repository!
+  }
+
+  type CommentConnection {
+    edges: [CommentEdge]!
+    pageInfo: PageInfo!
+  }
+
+  type CommentEdge {
+    cursor: String!
+    node: Comment!
   }
 
   type ForkConnection {
@@ -41,7 +61,7 @@ const typeDefs = gql`
     pageInfo: PageInfo!
   }
 
-  type UserConnection {
+    type UserConnection {
     edges: [UserEdge]!
     pageInfo: PageInfo!
   }
@@ -59,10 +79,12 @@ const typeDefs = gql`
   type PageInfo {
     endCursor: String
     hasNextPage: Boolean
+
   }
 `;
 
 // Define your resolvers
+
 const resolvers = {
   Query: {
     repository: (parent, args, { repositories }) => repositories.find(repo => repo.name === args.name && repo.owner.login === args.owner),
@@ -87,6 +109,24 @@ const resolvers = {
   },
   Repository: {
     owner: (parent, args, { users }) => users.find(user => user.id === parent.owner.id),
+    comments: (parent, { first = 10, after }, { comments }) => {
+        const repoComments = comments.filter(comment => comment.repositoryId === parent.id);
+        const startIndex = after ? repoComments.findIndex(comment => comment.id === after) + 1 : 0;
+        const paginatedComments = repoComments.slice(startIndex, startIndex + first);
+        const endCursor = paginatedComments.length > 0 ? paginatedComments[paginatedComments.length - 1].id : null;
+        const hasNextPage = startIndex + first < repoComments.length;
+  
+        return {
+          edges: paginatedComments.map(comment => ({
+            cursor: comment.id,
+            node: comment,
+          })),
+          pageInfo: {
+            endCursor,
+            hasNextPage,
+          },
+        };
+      },
   },
   User: {
     repositories: (parent, { first = 10, after }, { repositories }) => {
@@ -105,91 +145,47 @@ const resolvers = {
         },
       };
     },
+    comments: (parent, { first = 10, after }, { comments }) => {
+        const userComments = comments.filter(comment => comment.userId === parent.id);
+        const startIndex = after ? userComments.findIndex(comment => comment.id === after) + 1 : 0;
+        const paginatedComments = userComments.slice(startIndex, startIndex + first);
+        const endCursor = paginatedComments.length > 0 ? paginatedComments[paginatedComments.length - 1].id : null;
+        const hasNextPage = startIndex + first < userComments.length;
+  
+        return {
+          edges: paginatedComments.map(comment => ({
+            cursor: comment.id,
+            node: comment,
+          })),
+          pageInfo: {
+            endCursor,
+            hasNextPage,
+          },
+        };
+      },
+    },
+    Comment: {
+      user: (parent, args, { users }) => 
+        users.find(user => user.id === parent.userId),
+      repository: (parent, args, { repositories }) => 
+        repositories.find(repo => repo.id === parent.repositoryId),
   },
 };
 
 // Create an Express application
 const app = express();
 
-// Setup Prometheus metrics
-const register = new promClient.Registry();
-promClient.collectDefaultMetrics({ register });
-
-// Custom metrics for Node.js application
-const heapUsedGauge = new promClient.Gauge({
-  name: 'heap_used_bytes',
-  help: 'Heap used in bytes',
-  registers: [register]
-});
-
-const rssGauge = new promClient.Gauge({
-  name: 'rss_bytes',
-  help: 'Resident Set Size in bytes',
-  registers: [register]
-});
-
-const gcDurationGauge = new promClient.Gauge({
-  name: 'gc_duration_seconds',
-  help: 'Garbage collection duration in seconds',
-  registers: [register]
-});
-
-const cpuUserTimeGauge = new promClient.Gauge({
-  name: 'cpu_user_time_seconds',
-  help: 'CPU user time in seconds',
-  registers: [register]
-});
-
-const totalSystemMemoryGauge = new promClient.Gauge({
-  name: 'system_total_memory_bytes',
-  help: 'Total system memory in bytes',
-  registers: [register]
-});
-
-const freeSystemMemoryGauge = new promClient.Gauge({
-  name: 'system_free_memory_bytes',
-  help: 'Free system memory in bytes',
-  registers: [register]
-});
-
-// Interval to update Node.js application metrics
-setInterval(() => {
-  const memoryUsage = process.memoryUsage();
-  const cpuUsage = os.cpus();
-  const systemMemory = os.totalmem();
-  const freeMemory = os.freemem();
-
-  heapUsedGauge.set(memoryUsage.heapUsed);
-  rssGauge.set(memoryUsage.rss);
-
-  // Aggregate CPU times to get user time in seconds
-  let totalUserTime = 0;
-  cpuUsage.forEach((cpu) => {
-    totalUserTime += cpu.times.user;
-  });
-  cpuUserTimeGauge.set(totalUserTime / 1000); // Convert milliseconds to seconds
-
-  totalSystemMemoryGauge.set(systemMemory);
-  freeSystemMemoryGauge.set(freeMemory);
-}, 1000);
-
-// Interval to update Docker stats
-setInterval(() => {
-  collectDockerStats(register);
-}, 5000);
-
-// Expose the metrics endpoint
-app.get('/metrics', async (req, res) => {
-  res.set('Content-Type', register.contentType);
-  res.end(await register.metrics());
-});
+// Increase the payload size limit to 50MB
+app.use(bodyParser.json({ limit: '50mb' }));
+app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }));
 
 // Create the Apollo Server
 const server = new ApolloServer({
   typeDefs,
   resolvers,
-  context: () => ({ users, repositories }),
+  context: () => ({ users, repositories, comments }),
 });
+
 
 // Apply the Apollo GraphQL middleware to the Express application
 server.start().then(() => {
@@ -197,7 +193,7 @@ server.start().then(() => {
 
   // Start the server
   app.listen({ port: 5001, host: '0.0.0.0' }, () => {
+  //app.listen({ port: 5001 }, () => {
     console.log(`Server ready at http://localhost:5001${server.graphqlPath}`);
-    console.log('Metrics available at http://localhost:5001/metrics');
   });
 });

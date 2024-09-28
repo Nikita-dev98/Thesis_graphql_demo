@@ -10,7 +10,7 @@ const client = new ApolloClient({
 async function createLoad() {
   while (true) {
     try {
-      await client.query({ query: queries.batchingAttack });
+      await client.query({ query: queries.circularQueryAttack1 });
       console.log('Request sent');
     } catch (e) {
       console.error('Error sending request:', e);

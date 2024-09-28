@@ -28,7 +28,7 @@ users.forEach(user => {
 module.exports = {
   users,
   repositories,
-  comments: Array.from({ length: 50 }, (_, i) => ({
+  comments: Array.from({ length: 5000 }, (_, i) => ({
     id: (i + 1).toString(),
     content: `This is a comment on Repo ${((i % 100) + 1)} by User ${((i % 200) + 1)}`,
     repositoryId: ((i % 100) + 1).toString(),
