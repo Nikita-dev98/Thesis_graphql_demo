@@ -4,7 +4,7 @@ const depthLimit = require('graphql-depth-limit');
 const { createComplexityLimitRule } = require('graphql-validation-complexity');
 const rateLimit = require('express-rate-limit');
 // Import sample data 
-const { users, repositories } = require('./dataset_2'); 
+const { users, repositories } = require('./dataset'); 
 
 
 // Define your schema
@@ -115,17 +115,17 @@ const resolvers = {
 
 
 //Create the rate limiter middleware
-// const limiter = rateLimit({
-//  windowMs: 1 * 60 * 1000, // 1 minute
-//  max: 500, // limit each IP to 100 requests per windowMs
-//  message: "Too many requests from this IP, please try again later."
-//});
+const limiter = rateLimit({
+  windowMs: 1 * 60 * 1000, // 1 minute
+  max: 500, // limit each IP to 100 requests per windowMs
+  message: "Too many requests from this IP, please try again later."
+});
 
 // Create an Express application
 const app = express();
 
 // Apply rate limiting middleware to all requests
-// app.use(limiter);
+app.use(limiter);
 
 // Create the Apollo Server
 const server = new ApolloServer({

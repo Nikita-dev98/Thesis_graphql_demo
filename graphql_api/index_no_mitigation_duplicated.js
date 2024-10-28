@@ -3,7 +3,7 @@ const { ApolloServer, gql } = require('apollo-server-express');
 const bodyParser = require('body-parser')
 
 // Import sample data 
-const { users, repositories } = require('./dataset_2'); 
+const { users, repositories } = require('./dataset'); 
 
 
 // Define your schema

